@@ -11,7 +11,7 @@ An MMD-based covariate shift detector that converts a theoretical assumption vio
 This is the final layer in the reliability series: the deployment-layer question that precedes all statistical guarantees. Every repo before this one assumed the data distribution was stable. This repo measures whether that assumption holds.
 
 Part of a series on measurable reliability in ML:
-[Mathematical Reliability](https://github.com/mariam-elelidy/Mathematical-Reliability-for-ML-Predictions) · [Assumption Stress Harness](https://github.com/mariam-elelidy/Assumption-Stress-Harness) · [Influence & Stability](https://github.com/mariam-elelidy/Influence-Stability-Analysis-for-ML-Predictions) · [Calibration](https://github.com/mariam-elelidy/Calibration-as-a-Measurable-Reliability-Constraint) · [Selective Prediction](https://github.com/mariam-elelidy/Selective-Prediction-Under-Uncertainty)
+[Mathematical Reliability](https://github.com/mariam-elelidy/Mathematical-Reliability-for-ML-Predictions) · [Assumption Stress Harness](https://github.com/mariam-elelidy/Assumption-Stress-Harness) · [Influence & Stability](https://github.com/mariam-elelidy/Influence-Stability-Analysis-for-ML-Predictions) · [Calibration](https://github.com/mariam-elelidy/Calibration-as-a-Measurable-Reliability-Constraint) · [Selective Prediction](https://github.com/mariam-elelidy/Coverage-Abstention-Trade-offs-in-Selective-Prediction)
 
 ---
 
