@@ -153,5 +153,3 @@ Each layer is necessary. None is sufficient alone.
 - Rabanser, S., Günnemann, S., & Lipton, Z. (2019). Failing loudly: An empirical study of methods for detecting dataset shift. *NeurIPS*.
 
 ---
-
-*Final repo in the Mathematical Reliability for ML series.*
